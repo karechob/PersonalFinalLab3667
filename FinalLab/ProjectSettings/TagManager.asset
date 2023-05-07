@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Bubble
+  - Pin
+  - weapon
+  - ShowInResumeMode
+  - ShowInPauseMode
+  - border
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - background
+  - Water
+  - UI
+  - ground
+  - noCollision
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2197201131
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 3048560991
+    locked: 0
+  - name: noCollision
+    uniqueID: 1172879365
+    locked: 0
